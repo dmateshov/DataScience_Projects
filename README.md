@@ -1,2 +1,2 @@
 # DataScience_Projects
-My Data Science lower scale projects
+My Data Science projects
